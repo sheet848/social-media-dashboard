@@ -49,3 +49,7 @@
     font-size: 1em;
     margin: 0;
 }
+
+.card-bottom.dark .rodape-bottom h5 {
+    color: #fff;
+}
